@@ -1,0 +1,2 @@
+/docker/certs/*
+/docker/nginx/html/.well-known
